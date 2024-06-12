@@ -1,0 +1,11 @@
+salom - hello
+salom - 
+hello - 
+hello - 
+hello - 
+hello - 
+hello - 
+hello - 
+salom - hello
+olma - apple
+kitob - book
