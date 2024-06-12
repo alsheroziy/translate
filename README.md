@@ -1,1 +1,1 @@
-### Bu kod Tarjimon dasaturini qilishga eringan kallasini ishlatmaydigan kishilar uchun
+### Bu kod Tarjimon dasturini qilishga eringan vaqtida ustoz o'rgatgan bilimlarni sub istemol qolgan va kallasini ishlatmaydigan kishilar uchun.
